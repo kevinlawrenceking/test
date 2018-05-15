@@ -12,7 +12,7 @@
 	
 	<p>I'm going to add another line as a test.</p>
 	
-	
+	<p>This is another test.</p>
 
 	
 	<h2>Changes</h2>
@@ -24,3 +24,4 @@
 	<p>Third change to file.</p>
 </body>
 </html>
+
